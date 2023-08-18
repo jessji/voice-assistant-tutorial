@@ -1,0 +1,9 @@
+langchain
+openai
+pypdf
+streamlit
+chromadb
+speechrecognition
+gTTS
+# pyttsx3
+# pyaudio
